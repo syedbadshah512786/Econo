@@ -23,5 +23,7 @@ or
 ```
 install_github('syedbadshah512786/Econo')
 ```
-
-
+Now Load a Library
+```
+library(Econo')
+```
